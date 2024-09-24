@@ -1,0 +1,4 @@
+script.zip
+*.backup
+*.tfstate
+*.terraform*
